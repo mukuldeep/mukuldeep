@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-👯 I’m looking to collaborate on Wordle & Wordle Solver repo
+- 👯 Right Now, I’m looking looking for help with Wordle & Wordle Solver repo
+- 💬 Ask me about ...
+- 📫 Reachability: I'm active on GitHub LinkedIn, Instagram, WhatsApp, Telegram, Youtube etc.
 
 <!--
 **mukuldeep/mukuldeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
