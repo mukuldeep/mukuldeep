@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 Right Now, I’m looking looking for help with Wordle & Wordle Solver repo
+- 👯 Right Now, I’m looking looking for collaboration in developing open source video editor https://github.com/mukuldeep/OSSAVE
 - 💬 Ask me about ...
 - 📫 Reachability: I'm active on GitHub, LinkedIn, Instagram, WhatsApp, Telegram, Youtube etc.
 
