@@ -5,9 +5,11 @@
 - 📫 Reachability: I'm active on GitHub, LinkedIn, Instagram, WhatsApp, Telegram, Youtube etc.
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldeep&langs_count=12&theme=tokyonight&hide=Jupyter%20Notebook,HTML,css)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mukuldeep&count_private=true&theme=tokyonight&showicons=true&layout=compact)]()
 
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldeep&langs_count=12&theme=tokyonight&hide=Jupyter%20Notebook,HTML,css)]()
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mukuldeep&count_private=true&theme=tokyonight&showicons=true&layout=compact)]()
 
 <!--
 **mukuldeep/mukuldeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
