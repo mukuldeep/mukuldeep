@@ -1,13 +1,98 @@
 ### Hi there 👋
 
-- 👯 Right Now, I’m looking looking for collaboration in developing [Open Source Simple Video Editor](https://github.com/mukuldeep/OSSAVE)
+- 👯 Right Now, I’m looking for collaboration in developing [Open Source Simple Video Editor (OSSAVE) ](https://github.com/mukuldeep/OSSAVE)
 - 💬 Ask me about ...
-- 📫 Reachability: I'm active on GitHub, LinkedIn, Instagram, WhatsApp, Telegram, Youtube etc.
+
+### Featured Projects
+
+- [OffLine](https://github.com/offlineApp/OffLine-Android-releases) — peer-2-peer internet-less short video application
+- [LiveChain](https://github.com/LiveChain/LiveChain) — Lightweight blockchain for IoT with ECC
+- [OSSAVE](https://github.com/mukuldeep/OSSAVE) — Open-source Android video editor
+
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mukuldeep&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" width="360"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldeep&layout=compact&theme=default&hide=Jupyter%20Notebook,HTML,css" alt="Top Languages" width="360"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukuldeep&theme=default" alt="GitHub Streak" width="360"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mukuldeep&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" width="480"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukuldeep&theme=default" alt="GitHub Streak" width="480"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukuldeep&theme=github" alt="Activity Graph" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldeep&layout=compact&theme=default&hide=Jupyter%20Notebook,HTML,css" alt="Top Languages" width="480"/>
+
+### Frameworks & Languages
+<p align="left">  
+  <img src="https://img.shields.io/static/v1?label=&message=Languages&color=4285F4&style=for-the-badge" height="28" alt="Languages"/> 
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<p align="left">  
+  <img src="https://img.shields.io/static/v1?label=&message=Miscellaneous&color=4285F4&style=for-the-badge" height="28" alt="Miscellaneous"/> 
+  
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge"/>
+  <img src="https://img.shields.io/badge/ANTLR-EE0000?style=for-the-badge&logo=apachespark&logoColor=white" alt="ANTLR Badge"/>
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-0088CC?style=for-the-badge&logo=webrtc&logoColor=white"/>
+
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=&message=Embedded&color=4285F4&style=for-the-badge" height="28" alt="Embedded"/> 
+  
+  <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Embedded Systems"/>
+  <img src="https://img.shields.io/badge/ESP32-MCU-black?style=for-the-badge&logo=semanticscholar&logoColor=white" alt="ESP32 Badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP8266-WiFi_Module-darkgreen?style=for-the-badge&logo=gnupg&logoColor=white" alt="ESP8266"/>
+  <img src="https://img.shields.io/static/v1?label=&message=MPU6050&color=556B2F&style=for-the-badge" height="28" alt="MPU6050"/>
+
+
+</p>
+
+<p align="left">  
+  <img src="https://img.shields.io/static/v1?label=&message=Cryptography&color=4285F4&style=for-the-badge" height="28" alt="Cryptography"/> 
+  
+  <img src="https://img.shields.io/badge/Elliptic_Curve_Cryptography-cryptographic-green?style=for-the-badge&logo=keycdn&logoColor=white" alt="Elliptic Curve Cryptography"/>
+  <img src="https://img.shields.io/badge/Steganography-hidden_data-darkblue?style=for-the-badge&logo=showpad&logoColor=white" alt="Steganography"/>
+</p>
+
+<p align="left">  
+  <img src="https://img.shields.io/static/v1?label=&message=AI%20/%20ML&color=4285F4&style=for-the-badge" height="28" alt="Artificial Intelligence"/> 
+  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Google%20ML%20Kit&color=34A853&style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit"/>
+
+
+</p>
+
+<p align="left">  
+  <img src="https://img.shields.io/static/v1?label=&message=DataBase&color=4285F4&style=for-the-badge" height="28" alt="DataBase"/> 
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+</p>
+
+<p align="left">  
+  <img src="https://img.shields.io/static/v1?label=&message=Build&color=4285F4&style=for-the-badge" height="28" alt="Build"/> 
+  
+  <img src="https://img.shields.io/badge/Yocto-Build_System-002D72?style=for-the-badge&logo=linux&logoColor=white" alt="Yocto"/>
+  <img src="https://img.shields.io/badge/Make-Build_Automation-darkred?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+
+</p>
+
+
+
+### Reachability
+<!-- Social Media -->
+<a href="mailto:mukul0018@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
+<a href="https://linkedin.com/in/mukuldeep"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/mukuldeep"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mukuldeep&&style=flat-square)  
@@ -23,6 +108,19 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldeep&langs_count=12&hide=Jupyter%20Notebook,HTML,css" alt="GitHub Stats" width="350"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukuldeep" alt="mukuldeep" /></p>
+
+<img src="https://komarev.com/ghpvc/?username=mukuldeep&style=flat-square&color=blue" alt="Visitor Count"/>
+![Profile views counter](https://komarev.com/ghpvc/?username=mukuldeep&&style=flat-square)  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukuldeep&theme=github" alt="Activity Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=mukuldeep&theme=flat&margin-w=15" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/mukuldeep/mukuldeep/main/github-metrics.svg" alt="GitHub Metrics" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mukuldeep&theme=flat&margin-w=15" alt="GitHub Trophies" width="360"/>
+<img src="https://raw.githubusercontent.com/mukuldeep/mukuldeep/main/github-metrics.svg" alt="GitHub Metrics" />
+
+  <img src="https://img.shields.io/static/v1?label=&message=%20&color=FFFFFF&style=for-the-badge" height="28"/> 
+
 
 <table style = "border: none;">
   <tr>
