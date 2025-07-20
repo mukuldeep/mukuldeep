@@ -6,6 +6,7 @@
 ### Featured Projects
 
 - [OffLine](https://github.com/offlineApp/OffLine-Android-releases) — peer-2-peer internet-less short video application
+- [AutoCutAI](https://github.com/mukuldeep/AutoCutAI) — Automatic AI video editor
 - [LiveChain](https://github.com/LiveChain/LiveChain) — Lightweight blockchain for IoT with ECC
 - [OSSAVE](https://github.com/mukuldeep/OSSAVE) — Open-source Android video editor
 
