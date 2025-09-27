@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- Check out recent Apps I developed. Available on PlayStore
+  -  [ <img src="https://play-lh.googleusercontent.com/piUJDZtdeO2pF94dv_L8iqNRrXRH31nse7O2YnuqC3aJU741NVpf1YUOII9n9dXtOo4=s256-rw" alt="OffLine logo" height="21" /> OffLine: ](https://play.google.com/store/apps/details?id=com.offlinew.android)   Local social media, local chats, short video <strong> without internet </strong> connections
+  -  [<img src="https://play-lh.googleusercontent.com/TwRMs09wQZB74XBIAxqU2_rrf_VY1CPMjKHBVE-72iTTBu64FMSdQovxRPOigHY1qw=s256-rw" alt="AutoCutAI logo" height="21" /> AutoCutAI: ](https://play.google.com/store/apps/details?id=com.offlinew.autocutai)  Automatic <strong>AI based Video Editor</strong>, automatic video editing using AI, zero effort video edit 
+  -  [ <img src="https://play-lh.googleusercontent.com/73N93yq-KX4CQ26rpOmvJJpm218iFxaT1667UJ6_e0D8oiJI_vIGhjK3R5oLGhsNQhdKBOP1VLZIcFbs_rGcHg=s256-rw" alt="Practica logo" height="21" /> Practica: ](https://play.google.com/store/apps/details?id=com.offlinew.practica) <strong> MCQ Practice App </strong>, multiple field, multiple subjects, tailored questions, and insightful analytics. 
 - 👯 Right Now, I’m looking for collaboration in developing [Open Source Simple Video Editor (OSSAVE) ](https://github.com/mukuldeep/OSSAVE)
 - 💬 Ask me about ...
 
