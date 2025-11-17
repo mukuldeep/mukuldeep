@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<img src="./files/night-fury.svg" alt="night fury" height="128" style="border-radius:24px;" />
+
+### Hi there 👋
 
 - Check out recent Apps I developed. Available on PlayStore
   
