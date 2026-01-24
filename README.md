@@ -103,9 +103,9 @@
 
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mukuldeep&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" width="350"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukuldeep&theme=default" alt="GitHub Streak" width="370"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldeep&layout=compact&theme=default&hide=Jupyter%20Notebook,HTML,css" alt="Top Languages" width="270"/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukuldeep&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&border_color=000000&custom_title=contribution%20graph&radius=8&days=90&from=2021-10-01)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api?username=mukuldeep&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" width="350"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukuldeep&theme=default" alt="GitHub Streak" width="370"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldeep&layout=compact&theme=default&hide=Jupyter%20Notebook,HTML,css" alt="Top Languages" width="285"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukuldeep&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&border_color=000000&custom_title=contribution%20graph&radius=8&days=90&from=2021-10-01" alt="" width="435"/>
 
 
 ### Reachability
@@ -123,8 +123,9 @@
 ## Additionally  
 ### Check out interesting Apps I developed for you guys. Available on PlayStore
   
-  -  [ <img src="https://raw.githubusercontent.com/mukuldeep/ByteChat/main/resources/byteChatLogo_0.9.svg" alt="ByteChat logo" height="21" /> ByteChat: ](https://play.google.com/store/apps/details?id=com.offlinew.bytechat)   a **decentralized**, **peer-to-peer**, **offline** messaging and file sharing
-  -  [ <img src="https://play-lh.googleusercontent.com/piUJDZtdeO2pF94dv_L8iqNRrXRH31nse7O2YnuqC3aJU741NVpf1YUOII9n9dXtOo4=s256-rw" alt="OffLine logo" height="21" /> OffLine: ](https://play.google.com/store/apps/details?id=com.offlinew.android)   Local social media, local chats, short video <strong> without internet </strong> connections
+  -  [ <img src="https://raw.githubusercontent.com/mukuldeep/mukuldeep/refs/heads/main/files/air_mouse_logo.svg" alt="Air Mouse logo" height="21" /> Air Mouse: ](https://play.google.com/store/apps/details?id=com.offlinew.airmouse) use android as **Standard Bluetooth mouse, touchpad**
+  -  [ <img src="https://raw.githubusercontent.com/mukuldeep/ByteChat/main/resources/byteChatLogo_0.9.svg" alt="ByteChat logo" height="21" /> ByteChat: ](https://play.google.com/store/apps/details?id=com.offlinew.bytechat)   WifiDirect based **decentralized**, **peer-to-peer**, **offline** messaging and file sharing 
+  -  [ <img src="https://play-lh.googleusercontent.com/piUJDZtdeO2pF94dv_L8iqNRrXRH31nse7O2YnuqC3aJU741NVpf1YUOII9n9dXtOo4=s256-rw" alt="OffLine logo" height="21" /> OffLine: ](https://play.google.com/store/apps/details?id=com.offlinew.android)  WifiDirect based Local social media, local chats, short video <strong> without internet </strong> connections
   -  [<img src="https://play-lh.googleusercontent.com/TwRMs09wQZB74XBIAxqU2_rrf_VY1CPMjKHBVE-72iTTBu64FMSdQovxRPOigHY1qw=s256-rw" alt="AutoCutAI logo" height="21" /> AutoCutAI: ](https://play.google.com/store/apps/details?id=com.offlinew.autocutai)  Automatic <strong>AI based Video Editor</strong>, automatic video editing using AI, zero effort video edit 
   -  [ <img src="https://play-lh.googleusercontent.com/73N93yq-KX4CQ26rpOmvJJpm218iFxaT1667UJ6_e0D8oiJI_vIGhjK3R5oLGhsNQhdKBOP1VLZIcFbs_rGcHg=s256-rw" alt="Practica logo" height="21" /> Practica: ](https://play.google.com/store/apps/details?id=com.offlinew.practica) <strong> MCQ Practice App </strong>, multiple field, multiple subjects, tailored questions, and insightful analytics. 
 
@@ -138,6 +139,8 @@
 <!--
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukuldeep&theme=github" alt="Activity Graph" height="160"/>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukuldeep&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&border_color=000000&custom_title=contribution%20graph&radius=8&days=90&from=2021-10-01)]()
+
 
 **mukuldeep/mukuldeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
